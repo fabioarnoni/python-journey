@@ -62,3 +62,14 @@ print(backwards)
 backwards1 = letters[::-1]
 print(backwards1)
 
+###  Exercises ###
+# Print only 'qpo' characters
+# Print only 'edcba' characters
+# Print last 8 characters
+
+print(letters[16:13:-1])
+print(letters[4::-1])
+print(letters[:-9:-1])
+print()
+# Funnier mode
+print("".join(char if char in "qpo" else "" for char in letters)[::-1])print(letters[16:13:-1])
