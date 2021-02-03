@@ -1,3 +1,4 @@
+# Using variables and types
 greetings = "Hello"
 name = "Fabio"
 

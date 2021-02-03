@@ -1,3 +1,5 @@
+# Printing information in splitted lines
+
 splitString = "This string \n has been split over\n several lines"
 
 print(splitString)
@@ -17,12 +19,12 @@ several lines"""
 print(anotherSplitString)
 
 
-notSplitedString = """This string has NOT been \
+notSplittedString = """This string has NOT been \
 splited over \
 several lines"""
 
-print(notSplitedString)
+print(notSplittedString)
 
-#Scaping Back slashes
+# Scaping Back slashes
 print("C:\\Users\\timbuchalka\\notes")
 print(r"C:\Users\timbuchalka\notes")
