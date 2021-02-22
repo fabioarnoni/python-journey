@@ -1,6 +1,6 @@
 # String Data types
 
-#         012345678901234
+#         01234567890123
 parrot = "Norwegian Blue"
 #         43210987654321
 

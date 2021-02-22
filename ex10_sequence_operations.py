@@ -10,7 +10,7 @@ print(string1 + string2 + string3 + string4 + string5)
 
 print("Hello " * 5)
 print("Hello " * (5 + 4))
-print("Hello " *5 + "4")
+print("Hello " * 5 + "4")
 
 # Checking if a specific string is contained inside the today variable
 today = "friday"

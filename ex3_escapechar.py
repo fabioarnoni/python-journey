@@ -12,7 +12,7 @@ print('The pet shop owner said "No, no \'e\'s uh, ... He \'s resting".')
 print("The pet shop owner said \"No, no 'e's uh, ... He 's resting\".")
 print("""The pet shop owner said "No, no 'e's uh, ... He 's resting". """)
 
-anotherSplitString = """This string has been
+anotherSplitString = """This string
 has been split over
 several lines"""
 
